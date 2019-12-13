@@ -26,4 +26,4 @@ for (let i = 0; i < input.length; i++) {
 resultArray = resultArray.join("");
 resultArray = resultArray.toUpperCase();
 
-console.log(resultArray)
+console.log(resultArray);
